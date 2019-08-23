@@ -1,0 +1,2 @@
+include ':example', ':huioff-annotatlons', ':huioff-compiler', ':huioff-latte-core', ':huioff-latter-ec'
+rootProject.name='HaoStore'
